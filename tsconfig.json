@@ -4,7 +4,7 @@
     "strict": true,
     "paths": {
       "@/*": [
-        "./*"
+        "./src/*"
       ]
     }
   },
@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "components/RestauranteCard.jsx", "src/app/telas/HomeScreen.jsx", "src/app/telas/ProdutoScreen.jsx", "src/app/telas/RestaturanteScreen.jsx", "src/app/telas/CarrinhoScreen.jsx", "src/app/telas/CadastroScreen.jsx", "src/app/telas/LoginScreen.jsx"  ]
 }
