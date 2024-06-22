@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "ifood-clone",
-    "slug": "ifood-clone",
+    "slug": "teste",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -31,6 +31,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "b7c86f8c-cca7-407e-954f-4068a61d1f83"
+      }
+    },
+    "owner": "niltonguerra"
   }
 }
